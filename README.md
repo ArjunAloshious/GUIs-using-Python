@@ -41,6 +41,7 @@ To make it Non-Obstructive, all mouse operations are disabled within the window.
 The GUI window permanently stays on top of all other windows.
 
 ![Screenshot (591)](https://user-images.githubusercontent.com/47184341/105853652-ed797980-600b-11eb-8590-d757160e35e1.png)
+
 ![Screenshot (593)](https://user-images.githubusercontent.com/47184341/105853245-7d6af380-600b-11eb-822f-32924548ba18.png)
 
 ## KeySequenceOpenWindow file
