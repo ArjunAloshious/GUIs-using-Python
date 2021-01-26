@@ -22,7 +22,7 @@ Mainly uses the QVBoxLayout and QGridLayout classes.
 A sample GUI window with a 1x3 Horizontal layout of 3 non-responsive buttons with text, within a GroupBox.
 Mainly uses the QHBoxLayout class.
 
-![Screenshot (595)](https://user-images.githubusercontent.com/47184341/105853003-341aa400-600b-11eb-8d15-ceea57b98864.png)
+![Screenshot (611)](https://user-images.githubusercontent.com/47184341/105854418-e30baf80-600c-11eb-9deb-2370e693addd.png)
 
 ## Layout Example file
 This window uses a vertical box layout with 3 fields : a text field and 2 buttons.
