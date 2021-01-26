@@ -35,8 +35,8 @@ The 'Clear' button clears the entered text upon click.
 
 ## Frameless file
 Creates a Frameless, Informative GUI window with modifiable Transparency.
-Window has Fixed Positioning, calculated using Frame & Screen Geometry values.
-Window Size adjusts automatically according to the Font Size & Character Length of the Text.
+The window has Fixed Positioning, calculated using Frame & Screen Geometry values.
+The window's size adjusts automatically according to the Font Size & Character Length of the Text.
 To make it Non-Obstructive, all mouse operations are disabled within the window.
 The GUI window permanently stays on top of all other windows.
 
@@ -45,14 +45,14 @@ The GUI window permanently stays on top of all other windows.
 ![Screenshot (593)](https://user-images.githubusercontent.com/47184341/105853245-7d6af380-600b-11eb-822f-32924548ba18.png)
 
 ## KeySequenceOpenWindow file
-Displays a normal blank window initially on runnning.
+This displays a normal blank window initially on runnning.
 Upon using a key sequence like 'Ctrl+T' , the main GUI window pops up.
 The main window uses a 3x3 Grid layout for the 6 main buttons.
 Each button in the main window closes the window upon click.
 The windows are centered, by calculating the center with the help of Screen Geometry values.
-Window size and Button sizes are adjustable/expandable in real-time.
-Window has modifiable Transparency/Opacity, if needed.
-Window is Resizable, if needed.
+The window size and button sizes are adjustable/expandable in real-time.
+The window has modifiable Transparency/Opacity, if needed.
+The window is Resizable, if needed.
 The window's dimensions and position can be fixed using coordinates, if needed.
 For the main window, there are four different styles available, with gradient effects too.
 
