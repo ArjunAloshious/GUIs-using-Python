@@ -24,7 +24,7 @@ Mainly uses the QHBoxLayout class.
 
 ![Screenshot (611)](https://user-images.githubusercontent.com/47184341/105854418-e30baf80-600c-11eb-9deb-2370e693addd.png)
 
-## Layout Example file
+## LayoutExample file
 This window uses a vertical box layout with 3 fields : a text field and 2 buttons.
 The 'Print' button displays the entered text in the output window of the IDE. It also changes its colour, font colour and font size upon click.
 The 'Clear' button clears the entered text upon click.
@@ -40,9 +40,9 @@ The window's size adjusts automatically according to the Font Size & Character L
 To make it Non-Obstructive, all mouse operations are disabled within the window.
 The GUI window permanently stays on top of all other windows.
 
-![Screenshot (591)](https://user-images.githubusercontent.com/47184341/105853652-ed797980-600b-11eb-8590-d757160e35e1.png)
+![Screenshot (618)](https://user-images.githubusercontent.com/47184341/106104588-a6ed6180-6168-11eb-861e-7c1fde863b2e.png)
 
-![Screenshot (593)](https://user-images.githubusercontent.com/47184341/105853245-7d6af380-600b-11eb-822f-32924548ba18.png)
+![Screenshot (619)](https://user-images.githubusercontent.com/47184341/106104650-bd93b880-6168-11eb-8778-19a5f56f0265.png)
 
 ## KeySequenceOpenWindow file
 This displays a normal blank window initially on runnning.
