@@ -40,7 +40,8 @@ The window's size adjusts automatically according to the Font Size & Character L
 To make it Non-Obstructive, all mouse operations are disabled within the window.
 The GUI window permanently stays on top of all other windows.
 
-![Screenshot (618)](https://user-images.githubusercontent.com/47184341/106104588-a6ed6180-6168-11eb-861e-7c1fde863b2e.png) ![Screenshot (619)](https://user-images.githubusercontent.com/47184341/106104650-bd93b880-6168-11eb-8778-19a5f56f0265.png)
+![Screenshot (618)](https://user-images.githubusercontent.com/47184341/106104588-a6ed6180-6168-11eb-861e-7c1fde863b2e.png)
+![Screenshot (619)](https://user-images.githubusercontent.com/47184341/106104650-bd93b880-6168-11eb-8778-19a5f56f0265.png)
 
 ## KeySequenceOpenWindow file
 This displays a normal blank window initially on runnning.
